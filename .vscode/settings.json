@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/.gitignore": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/.vscode": true
+    },
+    "terminal.integrated.windowsEnableConpty": false
+}
